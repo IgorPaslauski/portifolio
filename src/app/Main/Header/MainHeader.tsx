@@ -7,7 +7,7 @@ export function MainHeader() {
       <div className="flex w-full gap-5 flex-wrap">
         <Image
           className="rounded-full max-w-80"
-          src="/images/profile.jpg"
+          src={`${process.env.REACT_APP_API_URL}/images/profile.jpg`}
           alt="Logo"
           width={400}
           height={400}
