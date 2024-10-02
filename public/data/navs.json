@@ -1,0 +1,38 @@
+{
+  "navs": [
+    {
+      "id": 1,
+      "title": "Sobre Mim",
+      "url": "",
+      "subnavs": [
+        {
+          "id": 1,
+          "title": "Quem Sou",
+          "url": "/quem-sou"
+        },
+        {
+          "id": 2,
+          "name": "O Que Faço",
+          "url": "/o-que-faco"
+        },
+        {
+          "id": 3,
+          "title": "Onde Estou",
+          "url": "/onde-estou"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projetos",
+      "url": "",
+      "subnavs": [
+        {
+          "id": 1,
+          "title": "Projetos Pessoais",
+          "url": "/projetos-pessoais"
+        }
+      ]
+    }
+  ]
+}

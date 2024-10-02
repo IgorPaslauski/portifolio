@@ -1,10 +1,13 @@
-import Image from "next/image";
+import { Main } from "./Main/Main";
+import { Nav } from "./Nav/Nav";
 
 export default function Home() {
   return (
-    <div>
-      <h1>Home</h1>
-      <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-    </div>
+    <>
+      <div className="flex">
+        <Nav />
+        <Main />
+      </div>
+    </>
   );
 }
