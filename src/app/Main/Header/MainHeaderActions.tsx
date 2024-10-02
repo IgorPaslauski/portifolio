@@ -24,7 +24,7 @@ export function MainHeaderActions() {
         <LinkedinIcon className="h-6 w-6 inline-block ml-2" />
       </a>
       <a
-        href="https://www.linkedin.com/in/igor-paslauski-de-oliveira/"
+        href="https://www.instagram.com/igor_paslauski/"
         target="_blank"
         rel="noreferrer"
         className={padraoBtn}
@@ -34,7 +34,7 @@ export function MainHeaderActions() {
       </a>
 
       <a
-        href="https://www.linkedin.com/in/igor-paslauski-de-oliveira/"
+        href="https://www.facebook.com/igor.paslauskipedrosodeoliveira/?locale=pt_BR"
         target="_blank"
         rel="noreferrer"
         className={padraoBtn}
