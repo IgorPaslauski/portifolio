@@ -1,6 +1,7 @@
-import { MainConteudoParagrafoDto } from "./MainConteudoParagrafoDto";
+import { ReactNode } from "react";
 
 export class MainConteudoDto {
   public title: string = "";
-  public conteudo: MainConteudoParagrafoDto = new MainConteudoParagrafoDto();
+  // conteudo para o paragrafo, pode ser qualquer componente react
+  public conteudo: ReactNode = null;
 }

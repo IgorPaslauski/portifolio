@@ -1,4 +1,4 @@
-import { MainConteudoParagrafoDto } from "../models/Main/MainConteudoParagrafoDto";
+import { MainConteudoParagrafoDto } from "../../models/Main/MainConteudoParagrafoDto";
 
 export function MainConteudoParagrafo({
   conteudo,
