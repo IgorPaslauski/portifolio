@@ -12,7 +12,7 @@ export async function MainCertificado({
       <div className="flex gap-5 items-center flex-wrap">
         <div>
           <Image
-            src={certificate.image}
+            src={certificate.image ?? ""}
             alt={certificate.title}
             width={50}
             height={50}

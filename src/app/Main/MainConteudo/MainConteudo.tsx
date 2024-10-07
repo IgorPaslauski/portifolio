@@ -10,7 +10,7 @@ export async function MainConteudo({
   // esperar 1 segundo
 
   return (
-    <div className="w-full">
+    <div className="w-full my-5">
       <MainConteudoTitle title={conteudo?.title ?? ""} />
       {conteudo?.conteudo}
     </div>
