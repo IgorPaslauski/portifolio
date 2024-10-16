@@ -1,0 +1,11 @@
+{
+  "id": 5,
+  "curso_id": 1,
+  "titulo": "Maratona de Programação 2024",
+  "conteudo": "",
+  "professor_id": 1,
+  "criado_em": "2024-09-18T14:57:51.335Z",
+  "link_img_fundo": "https://lh3.googleusercontent.com/hr_crs_themes/ACP_IjFDrjeKp8F-rfKnD7XO8-Ivr9LcvXvjv2OHgyq_GasOcbKj_3hVZpKbv3-rApz6PvTz_lBsmoD5HxOIysrP-31ZaH9w_U72Q9HU7D5iXHd7m-sYELcv=s1280",
+  "ordem": 5,
+  "cor_fundo_nav": "rgb(118,39,187)"
+}

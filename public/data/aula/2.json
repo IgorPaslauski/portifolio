@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "curso_id": 1,
+  "titulo": "3º Sistemas Embarcados - IJ",
+  "conteudo": "",
+  "professor_id": 2,
+  "criado_em": "2024-09-18T14:57:08.645Z",
+  "link_img_fundo": "https://gstatic.com/classroom/themes/img_learnlanguage.jpg",
+  "ordem": 2,
+  "cor_fundo_nav": "rgb(25,103,210)"
+}

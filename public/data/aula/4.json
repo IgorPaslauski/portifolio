@@ -1,0 +1,11 @@
+{
+  "id": 4,
+  "curso_id": 1,
+  "titulo": "Sistemas Distribuidos",
+  "conteudo": "2024",
+  "professor_id": 4,
+  "criado_em": "2024-09-18T14:57:42.315Z",
+  "link_img_fundo": "https://gstatic.com/classroom/themes/img_read.jpg",
+  "ordem": 4,
+  "cor_fundo_nav": "rgb(32,33,36)"
+}

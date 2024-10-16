@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "curso_id": 1,
+  "titulo": "IJ - Programação para Interface de Usuário",
+  "conteudo": "Grp00537",
+  "professor_id": 1,
+  "criado_em": "2024-09-18T14:56:50.171Z",
+  "link_img_fundo": "https://www.gstatic.com/classroom/themes/img_read.jpg",
+  "ordem": 1,
+  "cor_fundo_nav": "rgb(32,33,36)"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "curso_id": 1,
+  "titulo": "Mundo Digital",
+  "conteudo": "",
+  "professor_id": 3,
+  "criado_em": "2024-09-18T14:57:27.818Z",
+  "link_img_fundo": "https://gstatic.com/classroom/themes/Physics.jpg",
+  "ordem": 3,
+  "cor_fundo_nav": "rgb(23,78,166)"
+}

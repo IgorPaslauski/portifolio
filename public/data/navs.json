@@ -1,7 +1,14 @@
 {
   "navs": [
     {
+      "id": 0,
+      "idHref": "MainHeader",
+      "title": "Home",
+      "url": "/"
+    },
+    {
       "id": 1,
+      "idHref": 1,
       "title": "Sobre Mim",
       "url": "",
       "subnavs": [
@@ -24,6 +31,7 @@
     },
     {
       "id": 2,
+      "idHref": 2,
       "title": "Projetos",
       "url": "",
       "subnavs": [
@@ -33,6 +41,12 @@
           "url": "/projetos-pessoais"
         }
       ]
+    },
+    {
+      "id": 3,
+      "idHref": 3,
+      "title": "Certificados",
+      "url": ""
     }
   ],
   "socials": [
