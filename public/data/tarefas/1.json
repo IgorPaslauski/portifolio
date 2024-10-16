@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "aula_id": 1,
+    "titulo": "Missão 2 - Aplicação web com front-end e back-end - 200 XP - Grupo/Individual",
+    "descricao": "Desenvolver uma aplicação Web simples utilizando a tecnologia React, com foco no reúso de componentes de interface. Para o back-end, utilize a tecnologia com a qual você se sente mais confortável, você pode criar uma simulação (mock) ou conectar com um banco de dados.<br>\r\nDeve conter, pelo menos, duas requisições distintas para o back-end<br>\r\nA interface deve se assemelhar à tela inicial do Google Classroom (print anexado).<br>\r\nÉ essencial que haja troca de informações entre as camadas do sistema.<br>\r\nA avaliação será baseada na qualidade do desenvolvimento da interface e no domínio técnico demonstrado pelo aluno.<br>\r\nDurante a apresentação, o professor fará uma pergunta a cada aluno sobre a aplicação desenvolvida.",
+    "data_limite": null,
+    "criado_em": "2024-09-18T16:00:26.776Z"
+  },
+  {
+    "id": 2,
+    "aula_id": 1,
+    "titulo": "Missão 1 - 400 Pontos XP",
+    "descricao": "Construa um protótipo de alta fidelidade com base no tema definido em aula<br>\r\n<br>\r\nSobre o protótipo:<br>\r\n<br>\r\nO mesmo deve conter todas as telas mapeadas pelo clã;<br>\r\nNão é necessário iteração com o protótipo;<br>\r\nMínimo de 3 telas;<br>\r\nMáximo de 10 telas;<br>\r\nDeve conter um guia de estilo com as definições da aplicação como, por exemplo, tipografia, componentes, tamanhos, cores, logos, íconografia, etc.",
+    "data_limite": null,
+    "criado_em": "2024-09-18T16:01:32.617Z"
+  },
+  {
+    "id": 3,
+    "aula_id": 1,
+    "titulo": "Teste de Psicologia da cores",
+    "descricao": "",
+    "data_limite": null,
+    "criado_em": "2024-09-18T16:02:14.709Z"
+  },
+  {
+    "id": 4,
+    "aula_id": 1,
+    "titulo": "Clãs e classes",
+    "descricao": "Definam os clãs com nome e brasão, assim como os membros do clã e as respectivas classes de cada membro",
+    "data_limite": null,
+    "criado_em": "2024-09-18T16:02:31.822Z"
+  },
+  {
+    "id": 5,
+    "aula_id": 1,
+    "titulo": "Votação Gamificação",
+    "descricao": "",
+    "data_limite": null,
+    "criado_em": "2024-09-18T16:02:55.303Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7,
+    "aula_id": 4,
+    "titulo": "Atividade Docker + Nginx",
+    "descricao": "Instruções no Github: https://github.com/mwuttig/sd_2024_2_unijui/tree/main/ex_06_docker_nginx",
+    "data_limite": null,
+    "criado_em": "2024-09-25T22:22:59.605Z"
+  },
+  {
+    "id": 8,
+    "aula_id": 4,
+    "titulo": "Atividade Aula 4",
+    "descricao": "https://github.com/mwuttig/sd_2024_2_unijui/tree/main/ex_5_docker_sh",
+    "data_limite": null,
+    "criado_em": "2024-09-25T22:23:14.892Z"
+  },
+  {
+    "id": 9,
+    "aula_id": 4,
+    "titulo": "Aula_4",
+    "descricao": "Comunicação distribuida\r\nAtividade docker",
+    "data_limite": null,
+    "criado_em": "2024-09-25T22:23:30.161Z"
+  },
+  {
+    "id": 10,
+    "aula_id": 4,
+    "titulo": "Ativicade aula 3",
+    "descricao": "Exercício SSH\r\n- Descrição da atividade:\r\n- Criar duas máquinas virtuais linux\r\n-- Ou uma máquina só (se a hospedeira for linux)\r\n- Ou 2 máquinas Linux nativas\r\n- Instalar ssh (dicas em https://github.com/mwuttig/sd_2024_2_unijui/dicas/ssh.txt)\r\n- Configurar o SSH da VM para receber conexão sem senha\r\n\r\n\r\nEntrega da atividade:\r\n- Entrega um print da conexão contendo o comando SSH com o seu nome no Github: https://github.com/mwuttig/sd_2024_2_unijui/tree/main/ex_4_ssh",
+    "data_limite": null,
+    "criado_em": "2024-09-25T22:23:50.297Z"
+  },
+  {
+    "id": 11,
+    "aula_id": 4,
+    "titulo": "Atividade aula 1",
+    "descricao": "Escolha um sistema ou serviço de SD e avalie as seguintes questões de projeto\r\n1 - Transparência\r\n2 - Heterogeneidade\r\n3 - Flexibilidade\r\n4 - Segurança\r\n5 - Escalabilidade\r\n6 - Tolerância a Falhas\r\n7 - Concorrência\r\n",
+    "data_limite": null,
+    "criado_em": "2024-09-25T22:24:10.978Z"
+  }
+]
